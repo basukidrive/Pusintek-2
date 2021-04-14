@@ -171,4 +171,40 @@
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-1ccb3fab34a04965b02bc3b0ad710131.xml#id-1ccb3fab34a04965b02bc3b0ad710131"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f6b9c864604f4ad09e7482c2dcf86420">
+    <bounds
+        x="456"
+        y="408"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-106ef8461e7145c0be2d5218e829602a.xml#id-106ef8461e7145c0be2d5218e829602a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-add98f4b5f82478980ea025a75dc434c">
+    <bounds
+        x="456"
+        y="504"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-db9ce45d36e94c41a79d1411ac5c974f.xml#id-db9ce45d36e94c41a79d1411ac5c974f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b86dc554cdb344258eb7d2677394ab32">
+    <bounds
+        x="456"
+        y="588"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-bc307d5e2cb94f6e8644c39b2eb8db1e.xml#id-bc307d5e2cb94f6e8644c39b2eb8db1e"/>
+  </children>
 </archimate:ArchimateDiagramModel>
