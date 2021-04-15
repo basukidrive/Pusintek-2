@@ -90,4 +90,42 @@
         xsi:type="archimate:Plateau"
         href="Plateau_id-ff137dc9409f41d286741f4771934bb8.xml#id-ff137dc9409f41d286741f4771934bb8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ed564fd894da437588cf932d0298a3e9"
+      fillColor="#ff80ff">
+    <bounds
+        x="216"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-51cab0ddac8546fd9c14764d259dd8b1.xml#id-51cab0ddac8546fd9c14764d259dd8b1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-53f085a5a36a4e26b9c6cc4551ab61e8"
+      fillColor="#ff80ff">
+    <bounds
+        x="360"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-dbb528a9f8bc4cb29a80564489836640.xml#id-dbb528a9f8bc4cb29a80564489836640"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7d65dde890734d21ab09d0f80d6c4d0b">
+    <bounds
+        x="216"
+        y="108"
+        width="264"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-4f39cc36c28c4e30b4050ced21ddc072.xml#id-4f39cc36c28c4e30b4050ced21ddc072"/>
+  </children>
 </archimate:ArchimateDiagramModel>
