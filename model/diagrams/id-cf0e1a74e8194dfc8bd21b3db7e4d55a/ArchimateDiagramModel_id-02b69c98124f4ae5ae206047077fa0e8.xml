@@ -36,7 +36,7 @@
     <bounds
         x="36"
         y="36"
-        width="829"
+        width="721"
         height="217"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -79,7 +79,7 @@
       <bounds
           x="504"
           y="36"
-          width="301"
+          width="205"
           height="145"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -94,13 +94,25 @@
               href="ServingRelationship_id-8413cc5f8b4f493fa1c7c6d53a757ae7.xml#id-8413cc5f8b4f493fa1c7c6d53a757ae7"/>
         </sourceConnections>
         <bounds
-            x="84"
+            x="12"
             y="60"
-            width="120"
+            width="85"
             height="55"/>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_id-f757693ffb614d028af38ca9f037b860.xml#id-f757693ffb614d028af38ca9f037b860"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-564bc96189cf4b01863428402b5b97ad">
+        <bounds
+            x="108"
+            y="60"
+            width="85"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-b049d7e61df84f048b88ecc29c42abb7.xml#id-b049d7e61df84f048b88ecc29c42abb7"/>
       </children>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
@@ -170,8 +182,8 @@
       id="id-cea4211b818b40588e1746fd0a362b0a"
       targetConnections="id-1fd99d18956d4d23862c20efb91ceb26 id-0a06cbdb279a45f19da71b7d15b861f2 id-be40bea53e5c4591b5cb22c590ce8717 id-cac0b401f6774031a44cc7616fe7b1b8 id-fa12410446934a1b8acf064bd31d3b96 id-82e7e5c2231e4502ae8c139c3abe93b3">
     <bounds
-        x="408"
-        y="300"
+        x="337"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
@@ -200,8 +212,8 @@
           href="CompositionRelationship_id-755c60f5eb7c42808ec681cff3662d3f.xml#id-755c60f5eb7c42808ec681cff3662d3f"/>
     </sourceConnections>
     <bounds
-        x="233"
-        y="408"
+        x="168"
+        y="360"
         width="469"
         height="205"/>
     <children
