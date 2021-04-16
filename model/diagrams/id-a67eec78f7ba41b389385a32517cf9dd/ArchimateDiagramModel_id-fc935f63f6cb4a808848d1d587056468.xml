@@ -81,8 +81,8 @@
     <bounds
         x="24"
         y="252"
-        width="325"
-        height="37"/>
+        width="301"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-836e22b90f254d87a0ea391ef6ac1a7f.xml#id-836e22b90f254d87a0ea391ef6ac1a7f"/>
@@ -92,7 +92,7 @@
       id="id-5c6fce618568481a85ee2164ba531c29">
     <bounds
         x="24"
-        y="396"
+        y="357"
         width="133"
         height="37"/>
     <archimateElement
@@ -104,9 +104,9 @@
       id="id-71a55d15fc2e420d93674d7d38325648">
     <bounds
         x="24"
-        y="552"
+        y="480"
         width="769"
-        height="37"/>
+        height="25"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-180490f12e7b4ba888c5c47f4f695468.xml#id-180490f12e7b4ba888c5c47f4f695468"/>
@@ -116,9 +116,9 @@
       id="id-cc83f49b69ac4b7ea84b664fee3dad90">
     <bounds
         x="24"
-        y="444"
-        width="517"
-        height="49"/>
+        y="408"
+        width="457"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-0acebe6e3ecb48d29ca0f13d6fee422a.xml#id-0acebe6e3ecb48d29ca0f13d6fee422a"/>
@@ -128,9 +128,9 @@
       id="id-acf63c649fa54ca6b29c2be130bfe3da">
     <bounds
         x="24"
-        y="348"
+        y="324"
         width="769"
-        height="37"/>
+        height="25"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-6a28d751b53e4cc3ad7650d1639a9618.xml#id-6a28d751b53e4cc3ad7650d1639a9618"/>
@@ -140,8 +140,8 @@
       id="id-ed6e40075af042a183b4ad5904cb7f07">
     <bounds
         x="168"
-        y="393"
-        width="637"
+        y="354"
+        width="625"
         height="43"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
@@ -152,7 +152,7 @@
       id="id-05b8551ce00348dcb981e1e355662a70">
     <bounds
         x="168"
-        y="600"
+        y="516"
         width="337"
         height="37"/>
     <archimateElement
@@ -164,9 +164,9 @@
       id="id-1291698d4ccd46209abf850f5340d04b">
     <bounds
         x="168"
-        y="504"
-        width="637"
-        height="37"/>
+        y="444"
+        width="625"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-11b0e58c0d8d420fb097ee0b611c22ca.xml#id-11b0e58c0d8d420fb097ee0b611c22ca"/>
@@ -175,10 +175,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b8e1668e522049c6b3e23745d2b24d16">
     <bounds
-        x="168"
-        y="648"
+        x="171"
+        y="564"
         width="331"
-        height="49"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-9a7db8dcb3be4806a347c45f3da4c128.xml#id-9a7db8dcb3be4806a347c45f3da4c128"/>
@@ -201,7 +201,7 @@
     <bounds
         x="168"
         y="186"
-        width="169"
+        width="157"
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
@@ -212,9 +212,9 @@
       id="id-bb78518e0ee7443aa75830b5ae8e780e">
     <bounds
         x="168"
-        y="300"
+        y="288"
         width="625"
-        height="37"/>
+        height="25"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-a57e777af6bc4cd4a4050e8bdcc803de.xml#id-a57e777af6bc4cd4a4050e8bdcc803de"/>
