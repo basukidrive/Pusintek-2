@@ -103,4 +103,16 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-ffec05a6999147cc83ebdfec80e11ef7.xml#id-ffec05a6999147cc83ebdfec80e11ef7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e8b96bb99d8f4c8287d19646199afbf5">
+    <bounds
+        x="526"
+        y="504"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-b005089da10944d49b1127b552170de8.xml#id-b005089da10944d49b1127b552170de8"/>
+  </children>
 </archimate:ArchimateDiagramModel>
