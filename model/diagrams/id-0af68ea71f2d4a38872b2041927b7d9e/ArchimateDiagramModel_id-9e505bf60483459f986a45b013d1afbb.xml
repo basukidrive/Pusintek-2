@@ -111,4 +111,16 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-b309d4a21891447c95a0e6d963681b53.xml#id-b309d4a21891447c95a0e6d963681b53"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-27fd0bd1227a484ab45fc184674f1ed4">
+    <bounds
+        x="192"
+        y="240"
+        width="109"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-628a7a5c10e24a039734d1531479955a.xml#id-628a7a5c10e24a039734d1531479955a"/>
+  </children>
 </archimate:ArchimateDiagramModel>
