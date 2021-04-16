@@ -44,9 +44,9 @@
           href="CompositionRelationship_id-5b7777efa20140b6b2eed23b74de49a5.xml#id-5b7777efa20140b6b2eed23b74de49a5"/>
     </sourceConnections>
     <bounds
-        x="186"
-        y="128"
-        width="955"
+        x="12"
+        y="24"
+        width="848"
         height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -66,7 +66,7 @@
         id="id-333ccacf6e564366b4276ca46b3ce91b"
         targetConnections="id-17b85eba58a74130b5bd8f6431b162aa">
       <bounds
-          x="283"
+          x="240"
           y="72"
           width="157"
           height="73"/>
@@ -79,7 +79,7 @@
         id="id-be01feb3929b4cf68954a646d123dd1a"
         targetConnections="id-d953614989af4b5795132ef26ab95a8e">
       <bounds
-          x="523"
+          x="456"
           y="72"
           width="157"
           height="73"/>
@@ -92,7 +92,7 @@
         id="id-3a90f729bc33482ab58e5f59f99733e7"
         targetConnections="id-4f8ed771ea8b409f8ddd5c48b9e5656f">
       <bounds
-          x="763"
+          x="672"
           y="72"
           width="157"
           height="73"/>
@@ -119,15 +119,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ca46a9473c574154ab6c5ee90b559680"
-        source="id-ea4524ce4b8d4a0da1704739bf3d56ae"
-        target="id-2661f1ae199b4120819aa21cccb19086">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-8ad58fad1aa84d38b89180977a3f7357.xml#id-8ad58fad1aa84d38b89180977a3f7357"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2768a181f2ca40d6931c9af40b37a26e"
         source="id-ea4524ce4b8d4a0da1704739bf3d56ae"
         target="id-5640b1b7d338436e88f48308c308dd6a">
@@ -136,30 +127,17 @@
           href="CompositionRelationship_id-4151b3202bce46aabd0775916a213bc0.xml#id-4151b3202bce46aabd0775916a213bc0"/>
     </sourceConnections>
     <bounds
-        x="186"
-        y="369"
+        x="12"
+        y="265"
         width="200"
         height="300"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2661f1ae199b4120819aa21cccb19086"
-        targetConnections="id-ca46a9473c574154ab6c5ee90b559680">
-      <bounds
-          x="12"
-          y="36"
-          width="169"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:Principle"
-          href="Principle_id-adab2394612d4278911f8e8058ba1f55.xml#id-adab2394612d4278911f8e8058ba1f55"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5640b1b7d338436e88f48308c308dd6a"
         targetConnections="id-2768a181f2ca40d6931c9af40b37a26e">
       <bounds
           x="12"
-          y="84"
+          y="48"
           width="169"
           height="61"/>
       <archimateElement
@@ -172,7 +150,7 @@
         targetConnections="id-90818375fc3d4354a513af5e460e6a47">
       <bounds
           x="12"
-          y="156"
+          y="144"
           width="169"
           height="61"/>
       <archimateElement
@@ -227,8 +205,8 @@
           href="CompositionRelationship_id-46772fd0a23b44beb38522df1b94d629.xml#id-46772fd0a23b44beb38522df1b94d629"/>
     </sourceConnections>
     <bounds
-        x="445"
-        y="369"
+        x="228"
+        y="268"
         width="200"
         height="300"/>
     <children
@@ -339,8 +317,8 @@
           href="CompositionRelationship_id-51b64708389d471dbe3ef65663a3c2cb.xml#id-51b64708389d471dbe3ef65663a3c2cb"/>
     </sourceConnections>
     <bounds
-        x="936"
-        y="372"
+        x="660"
+        y="265"
         width="200"
         height="300"/>
     <children
@@ -440,8 +418,8 @@
           href="CompositionRelationship_id-fa7e54c4330340d587aafbfdc376b796.xml#id-fa7e54c4330340d587aafbfdc376b796"/>
     </sourceConnections>
     <bounds
-        x="685"
-        y="369"
+        x="444"
+        y="265"
         width="200"
         height="300"/>
     <children
