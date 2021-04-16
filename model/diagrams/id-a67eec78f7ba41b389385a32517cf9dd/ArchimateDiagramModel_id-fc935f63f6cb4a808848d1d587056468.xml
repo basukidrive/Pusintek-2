@@ -68,7 +68,7 @@
       id="id-0238f19c5efa4301b847c93c67db94af">
     <bounds
         x="156"
-        y="84"
+        y="96"
         width="133"
         height="73"/>
     <archimateElement
@@ -188,7 +188,7 @@
       id="id-03761e6df4e2407ebcdf0d416d414d19">
     <bounds
         x="324"
-        y="144"
+        y="114"
         width="685"
         height="37"/>
     <archimateElement
@@ -199,10 +199,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bf531b8878e049b89451afdc5ae73c6e">
     <bounds
-        x="330"
-        y="192"
+        x="324"
+        y="168"
         width="169"
-        height="37"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-76f2408e26ac48bdb8c599746b125e3e.xml#id-76f2408e26ac48bdb8c599746b125e3e"/>
