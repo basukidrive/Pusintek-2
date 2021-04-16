@@ -447,6 +447,18 @@
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-1e2d62c685a148a5803a78bbff882df8.xml#id-1e2d62c685a148a5803a78bbff882df8"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a021dbd429e14738b077d0ffd0b2e00e">
+      <bounds
+          x="6"
+          y="360"
+          width="109"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-1b35ac0360874b91b0233fbdc98217e3.xml#id-1b35ac0360874b91b0233fbdc98217e3"/>
+    </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-e78ce289c56646e1845bc13781b8c0bc.xml#id-e78ce289c56646e1845bc13781b8c0bc"/>
